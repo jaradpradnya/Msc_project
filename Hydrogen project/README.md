@@ -14,19 +14,19 @@ reducing reliance on fossil fuels and energy-intensive processes. </p>
 <li>Ammonia as hydrogen carrier- high storage density, safer handling then H<sub>2</sub></li>
 <li>Urease enzyme catalysis in urea hydroysis.</li>
 <li>Urea-based waste as a resource for clean energy</li>
-<li>ELectrolysis of ammonia- energetically cheaper than water electrolysis.</li>
+<li>Electrolysis of ammonia- energetically cheaper than water electrolysis.</li>
 </ul>
 <br>
 <b>Expermental design</b>
 <br>
 <br>
 <ol>
-<li>Materails required</li>
+<li>Materials required</li>
 <br>
 <ul>
 <li>Urinary wastewater</li>
 <li>Pigeon pea (For urease enzyme extraction)</li>
-<li>Copper elctrode (Cathode)</li>
+<li>Copper electrode (Cathode)</li>
 <li>Graphite electrode</li>
 <li>9V battery (DC power source)</li>
 <li>KOH (to create alkaline conditions)</li>
@@ -36,7 +36,7 @@ reducing reliance on fossil fuels and energy-intensive processes. </p>
 <br>
 <br>
 Stage 1: Waste collection and pre-treatment:
-<ul><li>Human urine filtered to remove solids and stored for proessing.</li></ul>
+<ul><li>Human urine filtered to remove solids and stored for processing.</li></ul>
 <br>
 Stage 2: Bioconversion using enzyme 
 <ul><li>Urease enzyme catalyzes hydrolysis of urea to release ammonia and CO<sub>2</sub></li></ul>
@@ -127,6 +127,11 @@ especially in developing regions.
 <li>Use DC power regulators instead of fixed 9V batteries for voltage control.</li>
 <li>Investigate economic feasibility and environmental impact for scaling.</li>
 </ul>
+<br>
+<b>Acknowledgments</b>
+<br>
+I would like to thank [DR. shreeram joglekar sir], [MIT WPU], and my colleagues [Prachi N. and 
+Chinmay G.] for their guidance and support during this research.
 
 
 
