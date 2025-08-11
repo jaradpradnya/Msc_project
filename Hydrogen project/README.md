@@ -60,7 +60,7 @@ Electrolysis conducted using:
 <br>
 <br>
 <ol>
-<li>Ammonia dissociation:
+<li>Ammonia dissociation:</li>
 NH<sub>3</sub>↔ 1/2NH<sub>4</sub> + 1/2NH<sub>2</sub>
 <br>
 <li>Cathode (H<sub>2</sub> release):</li>
@@ -75,6 +75,7 @@ NH<sub>3</sub>↔ 1/2NH<sub>4</sub> + 1/2NH<sub>2</sub>
 <br>
 <b>Result</b>
 <br>
+<br>
 <ol>
 <li>Key findings:</li>
 <br>
@@ -84,18 +85,18 @@ NH<sub>3</sub>↔ 1/2NH<sub>4</sub> + 1/2NH<sub>2</sub>
 <li>Optimal hydrogen yield was observed at:</li>
 </ul>
 <ol>
-<li>High ammonia concentration (5M).</li>
-<li>Moderate-high KOH (7M)</li>
-<li>Higher temperature (50<sup>0</sup>C)</li>
-<li>Lower voltage (0.33-0.34 V)</li>
+<pre><li>   High ammonia concentration (5M).</li>
+<li>        Moderate-high KOH (7M)</li>
+<li>        Higher temperature (50<sup>0</sup>C)</li>
+<li>        Lower voltage (0.33-0.34 V)</li></pre>
 </ol>
 <br>
 <li>Selected data (raw table)</li>
 <img src="Hydrogen%20project/Result%20table.jpeg" alt="table" />
 <br>
+<br>
 <b>Discussion</b>
 <ul>
-<br>
 <li>Urease-based hydrolysis was efficient using pigeon pea extract, indicating potential for 
 low-cost biocatalysts.</li>
 <li>Electrolysis of ammonia at low voltage with basic metal electrodes successfully produced 
